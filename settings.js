@@ -25,7 +25,7 @@ global.packname = 'Satoru X Bot'
 global.author = 'SatoruTech'
 
 //console view/theme
-global.themeemoji = '🩵'
+global.themeemoji = '☯️'
 global.wm = "SatoruTech in©"
 
 //theme link
